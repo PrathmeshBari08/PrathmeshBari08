@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Agriculture Waste Management website**
 
-- 🌱 I’m currently learning **React , Node js**
+- 🌱 I’m currently learning **React , Node js,Mongodb**
 
 - 📫 How to reach me **vivekbari2005@gmail.com**
 
