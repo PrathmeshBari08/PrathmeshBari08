@@ -60,22 +60,6 @@
 
 </div>
 
-<br>
-
-## 🚀 What I Work With
-
-<div align="center">
-
-| Frontend | Backend | Database | ML / Data |
-|:---:|:---:|:---:|:---:|
-| React | Node.js | MongoDB | TensorFlow |
-| Next.js | Express.js | — | scikit-learn |
-| HTML5 / CSS3 | — | — | OpenCV |
-
-</div>
-
-<br>
-
 ## 📫 Let's Connect
 
 <div align="center">
