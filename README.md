@@ -1,59 +1,30 @@
 <div align="center">
 
-# Prathmesh Bari
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prathmesh%20Bari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20)
 
-### Software Engineer · Full Stack (MERN) Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Building+clean%2C+scalable+web+apps;Full+Stack+Developer+%7C+MERN+%2B+Next.js;Turning+ideas+into+working+products;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=prathmeshbari08&label=Profile%20Views&color=2f81f7&style=flat-square)](https://github.com/prathmeshbari08)
-[![GitHub followers](https://img.shields.io/github/followers/prathmeshbari08?label=Followers&style=flat-square)](https://github.com/prathmeshbari08)
+<br><br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=prathmeshbari08&label=Profile%20Views&color=2f81f7&style=for-the-badge)](https://github.com/prathmeshbari08)
+[![GitHub followers](https://img.shields.io/github/followers/prathmeshbari08?label=Followers&style=for-the-badge&color=2f81f7)](https://github.com/prathmeshbari08)
 
 </div>
 
 <br>
 
-## 🚀 About Me
+## ✨ About Me
 
-I'm a software engineer who enjoys building clean, functional products end-to-end — from designing the UI to architecting the backend that powers it. I like working across the stack, writing code that's easy to maintain, and picking up new tools when they genuinely make things better.
-
-- 💻 Comfortable across the full stack — frontend, backend, and everything that connects them
-- 🧩 Enjoy solving problems with a mix of solid engineering and a bit of creativity
-- 📚 Always exploring new frameworks, languages, and ways of thinking about code
-- 🤝 Open to collaborating on interesting projects — reach out anytime
-
-<br>
-
-## 🧰 Tech Stack
+> I'm a software engineer who loves turning ideas into real, working products — from a pixel-perfect UI down to the API that powers it. I care about clean code, smooth user experiences, and building things that actually get used.
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td>
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-</td>
-<td valign="top" width="50%">
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Machine Learning & Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+🔧 &nbsp;Full stack development — frontend, backend, and the glue in between
+🎯 &nbsp;Focused on writing scalable, maintainable, production-ready code
+🧠 &nbsp;Constantly exploring new frameworks, patterns, and best practices
+🤝 &nbsp;Always up for collaborating on interesting, high-impact projects
 
 </td>
 </tr>
@@ -61,16 +32,45 @@ I'm a software engineer who enjoys building clean, functional products end-to-en
 
 <br>
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prathmeshbari08&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshbari08&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+**Languages**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshbari08&theme=radical&hide_border=true" alt="Streak Stats" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" alt="languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=prathmeshbari08&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+<br><br>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="frontend" />
+
+<br><br>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="backend" />
+
+<br><br>
+
+**Machine Learning & Data**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" alt="ml" />
+
+</div>
+
+<br>
+
+## 🚀 What I Work With
+
+<div align="center">
+
+| Frontend | Backend | Database | ML / Data |
+|:---:|:---:|:---:|:---:|
+| React | Node.js | MongoDB | TensorFlow |
+| Next.js | Express.js | — | scikit-learn |
+| HTML5 / CSS3 | — | — | OpenCV |
 
 </div>
 
@@ -78,15 +78,17 @@ I'm a software engineer who enjoys building clean, functional products end-to-en
 
 ## 📫 Let's Connect
 
-<p align="center">
+<div align="center">
+
 <a href="mailto:vivekbari2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <!-- Add more links as you like:
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 -->
-</p>
 
-<div align="center">
-<sub>Thanks for visiting my profile — feel free to check out my pinned repositories below.</sub>
 </div>
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
